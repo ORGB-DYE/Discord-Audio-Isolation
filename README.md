@@ -3,7 +3,9 @@ Almost working audio isolation for native discord on linux
 
 
 With this NVENC patch (https://github.com/relativemodder/discord-linux-vulkan-video-patcher) working with Vencord (https://vencord.dev/download/) the only thing I was missing was application audio isolation. 
+_____________________________________
 
+Instructions:
 
 Download the script and run it with: 
 python3 discord-audio-isolation.py 
