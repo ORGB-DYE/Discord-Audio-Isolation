@@ -11,7 +11,8 @@ Download the script and run it with:
 
 python3 discord-audio-isolation.py 
 
-Then start a stream on discord. After you select what window you want to share, a dialog popup will appear asking you which audio source you want to be streamed.
+With the script running, start a screenshare on discord. 
+After you select what window you want to share, a dialog popup will appear asking you which audio source you want to be streamed.
 
 Known issues and limitations:
 Currently it only blocks audio that is already playing on your computer. So if new application starts playing audio the stream will hear it. 
