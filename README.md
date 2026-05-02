@@ -21,3 +21,4 @@ After you select what window you want to share, a dialog popup will appear askin
 Known issues and limitations:
 Currently it only blocks audio that is already playing on your computer. So if new application starts playing audio the stream will hear it. 
 There is an issue with eacho/audio quality degradation when starting/stopping and streaming the same application. The temporary fix is to log out and back into your desktop session. 
+Scrubbing the seek bar on some video players breaks the audio share.
