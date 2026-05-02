@@ -8,6 +8,7 @@ _____________________________________
 Instructions:
 
 Install dependicies: 
+
 Arch: sudo pacman -S python python-pip pipewire-utils libpulse python-pyqt6
 
 Download the script and run it with: 
